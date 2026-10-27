@@ -4,7 +4,7 @@ name,aantal_anbis,latitude,longitude,description
 's Gravenmoer,3,51.6578881,4.9407124,'s Gravenmoer: 3 actieve ANBI's
 's-Graveland,9,52.2413132,5.1308287,'s-Graveland: 9 actieve ANBI's
 's-Gravendeel,14,51.7806608,4.6198749,'s-Gravendeel: 14 actieve ANBI's
-'s-Gravenhage,1643,52.0799838,4.3113461,'s-Gravenhage: 1643 actieve ANBI's
+'s-Gravenhage,1645,52.0799838,4.3113461,'s-Gravenhage: 1645 actieve ANBI's
 's-Gravenpolder,8,51.4591155,3.9022882,'s-Gravenpolder: 8 actieve ANBI's
 's-Gravenzande,39,52.0028294,4.1603759,'s-Gravenzande: 39 actieve ANBI's
 's-Heer Abtskerke,6,51.4708513,3.8806854,'s-Heer Abtskerke: 6 actieve ANBI's
@@ -65,7 +65,7 @@ Alkmaar,217,52.6312592,4.7503798,Alkmaar: 217 actieve ANBI's
 Allingawier,1,53.0478741,5.4456089,Allingawier: 1 actieve ANBI's
 Almelo,143,52.3563585,6.6636219,Almelo: 143 actieve ANBI's
 Almen,10,52.1572743,6.3014665,Almen: 10 actieve ANBI's
-Almere,346,52.3705038,5.2185859,Almere: 346 actieve ANBI's
+Almere,345,52.3705038,5.2185859,Almere: 345 actieve ANBI's
 Almkerk,21,51.7705707,4.9606525,Almkerk: 21 actieve ANBI's
 Alphen,11,51.4829194,4.9553103,Alphen: 11 actieve ANBI's
 Alphen Aan Den Rijn,4,52.1343369,4.6561357,Alphen Aan Den Rijn: 4 actieve ANBI's
@@ -110,7 +110,7 @@ Arnhem,420,51.984257,5.9108573,Arnhem: 420 actieve ANBI's
 Arriën,1,52.5422781,6.4572164,Arriën: 1 actieve ANBI's
 Arum,4,53.1300655,5.4757726,Arum: 4 actieve ANBI's
 Asperen,17,51.8807824,5.1109679,Asperen: 17 actieve ANBI's
-Assen,174,52.9952273,6.560498,Assen: 174 actieve ANBI's
+Assen,175,52.9952273,6.560498,Assen: 175 actieve ANBI's
 Assendelft,20,52.4681109,4.7449605,Assendelft: 20 actieve ANBI's
 Asten,26,51.404091,5.7458688,Asten: 26 actieve ANBI's
 Augustinusga,3,53.2192703,6.1640429,Augustinusga: 3 actieve ANBI's
@@ -118,7 +118,6 @@ Austerlitz,17,52.078001,5.3160068,Austerlitz: 17 actieve ANBI's
 Avenhorn,6,52.6178901,4.9488205,Avenhorn: 6 actieve ANBI's
 Axel,14,51.2673945,3.9071593,Axel: 14 actieve ANBI's
 BAVEL,1,51.5656819,4.8296995,BAVEL: 1 actieve ANBI's
-BERGEN OP ZOOM,1,51.4944756,4.2871541,BERGEN OP ZOOM: 1 actieve ANBI's
 BREDA,1,51.5887845,4.7760237,BREDA: 1 actieve ANBI's
 Baaiduinen,1,53.3773205,5.2746154,Baaiduinen: 1 actieve ANBI's
 Baak,5,52.0767538,6.2253899,Baak: 5 actieve ANBI's
@@ -147,7 +146,7 @@ Bantega,4,52.8428171,5.7974895,Bantega: 4 actieve ANBI's
 Barchem,7,52.1253892,6.4437256,Barchem: 7 actieve ANBI's
 Barendrecht,86,51.8566651,4.5368567,Barendrecht: 86 actieve ANBI's
 Barger-Compascuum,5,52.754792,7.042117,Barger-Compascuum: 5 actieve ANBI's
-Barneveld,114,52.1397035,5.5869635,Barneveld: 114 actieve ANBI's
+Barneveld,115,52.1397035,5.5869635,Barneveld: 115 actieve ANBI's
 Barsingerhorn,2,52.78467,4.85292,Barsingerhorn: 2 actieve ANBI's
 Batenburg,1,51.8232774,5.6290992,Batenburg: 1 actieve ANBI's
 Bathmen,15,52.2501611,6.2844941,Bathmen: 15 actieve ANBI's
@@ -268,7 +267,7 @@ Boxtel,61,51.5883055,5.3247837,Boxtel: 61 actieve ANBI's
 Braamt,4,51.9245379,6.2654688,Braamt: 4 actieve ANBI's
 Brakel,8,51.8172979,5.0914074,Brakel: 8 actieve ANBI's
 Brandwijk,7,51.8895707,4.813383,Brandwijk: 7 actieve ANBI's
-Breda,328,51.5887845,4.7760237,Breda: 328 actieve ANBI's
+Breda,327,51.5887845,4.7760237,Breda: 327 actieve ANBI's
 Bredevoort,6,51.943829,6.6181276,Bredevoort: 6 actieve ANBI's
 Breedenbroek,5,51.8730662,6.4723596,Breedenbroek: 5 actieve ANBI's
 Breezand,10,52.8884022,4.8029941,Breezand: 10 actieve ANBI's
@@ -303,7 +302,7 @@ Buitenkaag,3,52.2199397,4.5602315,Buitenkaag: 3 actieve ANBI's
 Buitenpost,22,53.2540348,6.1442343,Buitenpost: 22 actieve ANBI's
 Bunde,17,50.8974116,5.7325399,Bunde: 17 actieve ANBI's
 Bunnik,35,52.0663713,5.1940676,Bunnik: 35 actieve ANBI's
-Bunschoten-Spakenburg,67,52.2452013,5.3731599,Bunschoten-Spakenburg: 67 actieve ANBI's
+Bunschoten-Spakenburg,68,52.2452013,5.3731599,Bunschoten-Spakenburg: 68 actieve ANBI's
 Bunschoten-spakenburg,2,52.2452013,5.3731599,Bunschoten-spakenburg: 2 actieve ANBI's
 Burdaard,5,53.2952021,5.879602,Burdaard: 5 actieve ANBI's
 Buren,14,51.9112701,5.3339979,Buren: 14 actieve ANBI's
@@ -321,7 +320,7 @@ Cadier en Keer,8,50.8279655,5.7680045,Cadier en Keer: 8 actieve ANBI's
 Cadzand,4,51.3685463,3.4089972,Cadzand: 4 actieve ANBI's
 Callantsoog,4,52.836343,4.697128,Callantsoog: 4 actieve ANBI's
 Capelle Aan Den Ijssel,4,51.9312552,4.5883596,Capelle Aan Den Ijssel: 4 actieve ANBI's
-Capelle aan den IJssel,113,51.9312552,4.5883596,Capelle aan den IJssel: 113 actieve ANBI's
+Capelle aan den IJssel,112,51.9312552,4.5883596,Capelle aan den IJssel: 112 actieve ANBI's
 Castenray,6,51.4894867,6.034807,Castenray: 6 actieve ANBI's
 Castricum,57,52.5496739,4.6696185,Castricum: 57 actieve ANBI's
 Chaam,11,51.5052547,4.8611725,Chaam: 11 actieve ANBI's
@@ -336,7 +335,7 @@ Creil,3,52.7633704,5.6588593,Creil: 3 actieve ANBI's
 Cromvoirt,7,51.6605431,5.2330368,Cromvoirt: 7 actieve ANBI's
 Cruquius,8,52.3364776,4.6367765,Cruquius: 8 actieve ANBI's
 Cuijk,34,51.729939,5.8800458,Cuijk: 34 actieve ANBI's
-Culemborg,95,51.9573504,5.2253042,Culemborg: 95 actieve ANBI's
+Culemborg,94,51.9573504,5.2253042,Culemborg: 94 actieve ANBI's
 DOORN,1,52.0333163,5.3455956,DOORN: 1 actieve ANBI's
 DORDRECHT,1,51.814429,4.6692438,DORDRECHT: 1 actieve ANBI's
 Daarle,5,52.4327982,6.5374116,Daarle: 5 actieve ANBI's
@@ -363,7 +362,7 @@ De Knipe,5,52.9684073,5.9740211,De Knipe: 5 actieve ANBI's
 De Koog,5,53.0998817,4.7626457,De Koog: 5 actieve ANBI's
 De Krim,4,52.6507384,6.6185617,De Krim: 4 actieve ANBI's
 De Kwakel,12,52.2388539,4.7932514,De Kwakel: 12 actieve ANBI's
-De Lier,21,51.9751843,4.2471322,De Lier: 21 actieve ANBI's
+De Lier,20,51.9751843,4.2471322,De Lier: 20 actieve ANBI's
 De Meern,41,52.0811781,5.0363571,De Meern: 41 actieve ANBI's
 De Moer,2,51.6237323,5.0135164,De Moer: 2 actieve ANBI's
 De Mortel,3,51.5403294,5.7089062,De Mortel: 3 actieve ANBI's
@@ -396,7 +395,7 @@ Den Burg,37,53.055232,4.7967379,Den Burg: 37 actieve ANBI's
 Den Dolder,14,52.1413382,5.2391461,Den Dolder: 14 actieve ANBI's
 Den Dungen,8,51.6656003,5.3712805,Den Dungen: 8 actieve ANBI's
 Den Ham,25,53.2738959,6.4271387,Den Ham: 25 actieve ANBI's
-Den Helder,93,52.957976,4.760279,Den Helder: 93 actieve ANBI's
+Den Helder,92,52.957976,4.760279,Den Helder: 92 actieve ANBI's
 Den Hoorn,23,53.025316,4.7527063,Den Hoorn: 23 actieve ANBI's
 Den Horn,2,53.2263513,6.4414052,Den Horn: 2 actieve ANBI's
 Den Hout,1,51.6570361,4.8140033,Den Hout: 1 actieve ANBI's
@@ -407,7 +406,7 @@ Denekamp,27,52.3746915,7.005301,Denekamp: 27 actieve ANBI's
 Deurne,44,51.4638535,5.7946304,Deurne: 44 actieve ANBI's
 Deurningen,4,52.3008411,6.8368748,Deurningen: 4 actieve ANBI's
 Deursen-Dennenburg,4,51.8026587,5.6263705,Deursen-Dennenburg: 4 actieve ANBI's
-Deventer,225,52.2532272,6.1584725,Deventer: 225 actieve ANBI's
+Deventer,226,52.2532272,6.1584725,Deventer: 226 actieve ANBI's
 Didam,21,51.9374851,6.1277537,Didam: 21 actieve ANBI's
 Dieden,1,51.82026,5.608405,Dieden: 1 actieve ANBI's
 Diemen,52,52.3421489,4.960825,Diemen: 52 actieve ANBI's
@@ -425,7 +424,7 @@ Dirksland,23,51.7480583,4.10147,Dirksland: 23 actieve ANBI's
 Dodewaard,6,51.9140052,5.6569388,Dodewaard: 6 actieve ANBI's
 Doenrade,1,50.9678901,5.9066669,Doenrade: 1 actieve ANBI's
 Doesburg,37,52.0139605,6.1393699,Doesburg: 37 actieve ANBI's
-Doetinchem,108,51.9655192,6.2891093,Doetinchem: 108 actieve ANBI's
+Doetinchem,107,51.9655192,6.2891093,Doetinchem: 107 actieve ANBI's
 Doeveren,2,51.7208285,5.0902487,Doeveren: 2 actieve ANBI's
 Doezum,3,53.2000385,6.2488392,Doezum: 3 actieve ANBI's
 Dokkum,43,53.3243515,5.9992306,Dokkum: 43 actieve ANBI's
@@ -468,7 +467,7 @@ Dussen,10,51.7308649,4.9630508,Dussen: 10 actieve ANBI's
 Dwingeloo,10,52.8333073,6.3669053,Dwingeloo: 10 actieve ANBI's
 Eanjum,4,53.3738667,6.1277868,Eanjum: 4 actieve ANBI's
 Earnewâld,9,53.1322349,5.9406531,Earnewâld: 9 actieve ANBI's
-Easterein,3,53.0970152,5.6174182,Easterein: 3 actieve ANBI's
+Easterein,2,53.0970152,5.6174182,Easterein: 2 actieve ANBI's
 Easterlittens,1,53.1354319,5.6498676,Easterlittens: 1 actieve ANBI's
 Eastermar,4,53.1742132,6.0620458,Eastermar: 4 actieve ANBI's
 Easternijtsjerk,2,53.3790518,6.0534064,Easternijtsjerk: 2 actieve ANBI's
@@ -506,7 +505,7 @@ Egmond aan den Hoef,12,52.6212361,4.6525624,Egmond aan den Hoef: 12 actieve ANBI
 Egmond-Binnen,13,52.5973714,4.6554268,Egmond-Binnen: 13 actieve ANBI's
 Eibergen,23,52.1032685,6.6511683,Eibergen: 23 actieve ANBI's
 Eijsden,25,50.7782686,5.7075337,Eijsden: 25 actieve ANBI's
-Eindhoven,459,51.4392648,5.478633,Eindhoven: 459 actieve ANBI's
+Eindhoven,460,51.4392648,5.478633,Eindhoven: 460 actieve ANBI's
 Einighausen,1,51.0026446,5.8264272,Einighausen: 1 actieve ANBI's
 Ekehaar,3,52.9533206,6.6030734,Ekehaar: 3 actieve ANBI's
 Elahuizen,2,52.9224893,5.5382332,Elahuizen: 2 actieve ANBI's
@@ -527,7 +526,7 @@ Emmen,96,52.788937,6.8939001,Emmen: 96 actieve ANBI's
 Emmer-Compascuum,11,52.8115315,7.046206,Emmer-Compascuum: 11 actieve ANBI's
 Empe,3,52.1553831,6.1404026,Empe: 3 actieve ANBI's
 Emst,15,52.3182269,5.9759134,Emst: 15 actieve ANBI's
-Enkhuizen,59,52.7036282,5.2901222,Enkhuizen: 59 actieve ANBI's
+Enkhuizen,60,52.7036282,5.2901222,Enkhuizen: 60 actieve ANBI's
 Ens,4,52.6366994,5.8269247,Ens: 4 actieve ANBI's
 Enschede,272,52.2209855,6.8940537,Enschede: 272 actieve ANBI's
 Enspijk,2,51.8837507,5.2129943,Enspijk: 2 actieve ANBI's
@@ -645,21 +644,21 @@ Grafhorst,5,52.5827015,5.9356722,Grafhorst: 5 actieve ANBI's
 Graft,3,52.56136,4.8320733,Graft: 3 actieve ANBI's
 Gramsbergen,6,52.6096404,6.6687883,Gramsbergen: 6 actieve ANBI's
 Grashoek,1,51.3615633,5.9407252,Grashoek: 1 actieve ANBI's
-Grave,19,51.7596504,5.7411125,Grave: 19 actieve ANBI's
+Grave,18,51.7596504,5.7411125,Grave: 18 actieve ANBI's
 Greonterp,1,53.0153378,5.5195163,Greonterp: 1 actieve ANBI's
 Grevenbicht,2,51.0407469,5.7727611,Grevenbicht: 2 actieve ANBI's
 Griendtsveen,1,51.4438463,5.8818198,Griendtsveen: 1 actieve ANBI's
 Grijpskerk,7,53.2638942,6.3061336,Grijpskerk: 7 actieve ANBI's
 Grijpskerke,5,51.5341554,3.5613136,Grijpskerke: 5 actieve ANBI's
 Groede,7,51.3793344,3.5067157,Groede: 7 actieve ANBI's
-Groenekan,16,52.1234194,5.1513413,Groenekan: 16 actieve ANBI's
+Groenekan,15,52.1234194,5.1513413,Groenekan: 15 actieve ANBI's
 Groeningen,1,51.6072725,5.9990017,Groeningen: 1 actieve ANBI's
 Groenlo,17,52.0425903,6.6170412,Groenlo: 17 actieve ANBI's
 Groesbeek,34,51.7741022,5.9305385,Groesbeek: 34 actieve ANBI's
 Groessen,4,51.9320005,6.0289483,Groessen: 4 actieve ANBI's
 Groet,1,52.7210122,4.6684187,Groet: 1 actieve ANBI's
 Grolloo,3,52.936205,6.6727367,Grolloo: 3 actieve ANBI's
-Groningen,495,53.2190652,6.5680077,Groningen: 495 actieve ANBI's
+Groningen,496,53.2190652,6.5680077,Groningen: 496 actieve ANBI's
 Gronsveld,10,50.8110353,5.7308285,Gronsveld: 10 actieve ANBI's
 Groot-Ammers,13,51.9243571,4.8243822,Groot-Ammers: 13 actieve ANBI's
 Grootebroek,17,52.6974447,5.2260217,Grootebroek: 17 actieve ANBI's
@@ -739,7 +738,7 @@ Heerewaarden,3,51.8182082,5.3894088,Heerewaarden: 3 actieve ANBI's
 Heerhugowaard,84,52.6631484,4.8326672,Heerhugowaard: 84 actieve ANBI's
 Heerjansdam,7,51.8353451,4.561677,Heerjansdam: 7 actieve ANBI's
 Heerle,3,51.5187982,4.3620451,Heerle: 3 actieve ANBI's
-Heerlen,143,50.8876735,5.9773285,Heerlen: 143 actieve ANBI's
+Heerlen,144,50.8876735,5.9773285,Heerlen: 144 actieve ANBI's
 Heesbeen,3,51.7300657,5.1189188,Heesbeen: 3 actieve ANBI's
 Heesch,11,51.73519,5.5266331,Heesch: 11 actieve ANBI's
 Heesselt,2,51.8136638,5.3466168,Heesselt: 2 actieve ANBI's
@@ -754,13 +753,13 @@ Heide,1,51.5054556,5.9510864,Heide: 1 actieve ANBI's
 Heijen,4,51.6742119,5.9805161,Heijen: 4 actieve ANBI's
 Heijningen,4,51.6565557,4.4100072,Heijningen: 4 actieve ANBI's
 Heikant,1,51.2491943,4.0234522,Heikant: 1 actieve ANBI's
-Heilig Landstichting,14,51.8171099,5.8916867,Heilig Landstichting: 14 actieve ANBI's
+Heilig Landstichting,13,51.8171099,5.8916867,Heilig Landstichting: 13 actieve ANBI's
 Heiligerlee,4,53.1554458,7.0074743,Heiligerlee: 4 actieve ANBI's
 Heiloo,55,52.6050033,4.7125066,Heiloo: 55 actieve ANBI's
 Heinenoord,11,51.8269476,4.4800729,Heinenoord: 11 actieve ANBI's
 Heinkenszand,11,51.4723969,3.8168553,Heinkenszand: 11 actieve ANBI's
 Heino,18,52.4361877,6.2337581,Heino: 18 actieve ANBI's
-Hekelingen,5,51.8263985,4.3438804,Hekelingen: 5 actieve ANBI's
+Hekelingen,4,51.8263985,4.3438804,Hekelingen: 4 actieve ANBI's
 Helden,13,51.3203339,6.000166,Helden: 13 actieve ANBI's
 Helenaveen,3,51.388689,5.9178418,Helenaveen: 3 actieve ANBI's
 Hellendoorn,14,52.3899376,6.4475132,Hellendoorn: 14 actieve ANBI's
@@ -773,7 +772,7 @@ Hem,5,52.6607793,5.1835446,Hem: 5 actieve ANBI's
 Hemelum,8,52.8811491,5.4576975,Hemelum: 8 actieve ANBI's
 Hemmen,6,51.9275727,5.6901402,Hemmen: 6 actieve ANBI's
 Hemrik,2,53.0321377,6.1385424,Hemrik: 2 actieve ANBI's
-Hendrik-Ido-Ambacht,50,51.8438893,4.635647,Hendrik-Ido-Ambacht: 50 actieve ANBI's
+Hendrik-Ido-Ambacht,49,51.8438893,4.635647,Hendrik-Ido-Ambacht: 49 actieve ANBI's
 Hendrik-ido-ambacht,2,51.8438893,4.635647,Hendrik-ido-ambacht: 2 actieve ANBI's
 Hengelo,166,52.2658726,6.7924049,Hengelo: 166 actieve ANBI's
 Hengelo (Gld),15,52.0522752,6.3112579,Hengelo (Gld): 15 actieve ANBI's
@@ -805,7 +804,7 @@ Hijken,1,52.8952284,6.4984931,Hijken: 1 actieve ANBI's
 Hilaard,3,53.1651999,5.7110954,Hilaard: 3 actieve ANBI's
 Hillegom,34,52.2922753,4.5834571,Hillegom: 34 actieve ANBI's
 Hilvarenbeek,23,51.4851583,5.1356804,Hilvarenbeek: 23 actieve ANBI's
-Hilversum,270,52.2241375,5.1719396,Hilversum: 270 actieve ANBI's
+Hilversum,271,52.2241375,5.1719396,Hilversum: 271 actieve ANBI's
 Hindeloopen,8,52.9426184,5.4004822,Hindeloopen: 8 actieve ANBI's
 Hippolytushoef,19,52.9057675,4.9608021,Hippolytushoef: 19 actieve ANBI's
 Hoedekenskerke,6,51.4248944,3.9142697,Hoedekenskerke: 6 actieve ANBI's
@@ -821,7 +820,7 @@ Hollandsche Rading,5,52.178205,5.1773424,Hollandsche Rading: 5 actieve ANBI's
 Hollandscheveld,12,52.7062897,6.5337912,Hollandscheveld: 12 actieve ANBI's
 Hollum,9,53.4412172,5.6377723,Hollum: 9 actieve ANBI's
 Holsloot,2,52.7282224,6.8024556,Holsloot: 2 actieve ANBI's
-Holten,24,52.2819676,6.4216444,Holten: 24 actieve ANBI's
+Holten,25,52.2819676,6.4216444,Holten: 25 actieve ANBI's
 Holthees,1,51.5740299,6.0052246,Holthees: 1 actieve ANBI's
 Holtum,6,51.0469859,5.8208674,Holtum: 6 actieve ANBI's
 Holwert,6,53.3684202,5.9051004,Holwert: 6 actieve ANBI's
@@ -839,16 +838,16 @@ Hoogeloon,3,51.3970303,5.2683632,Hoogeloon: 3 actieve ANBI's
 Hoogenweg,2,52.5659895,6.6655375,Hoogenweg: 2 actieve ANBI's
 Hoogerheide,16,51.424339,4.323838,Hoogerheide: 16 actieve ANBI's
 Hoogersmilde,3,52.9054328,6.3968885,Hoogersmilde: 3 actieve ANBI's
-Hoogeveen,79,52.7202393,6.4759313,Hoogeveen: 79 actieve ANBI's
+Hoogeveen,78,52.7202393,6.4759313,Hoogeveen: 78 actieve ANBI's
 Hoogezand,35,53.1638192,6.7556852,Hoogezand: 35 actieve ANBI's
 Hooghalen,7,52.9207892,6.541676,Hooghalen: 7 actieve ANBI's
 Hoogkarspel,14,52.6944295,5.176575,Hoogkarspel: 14 actieve ANBI's
-Hoogland,13,52.1872469,5.3762224,Hoogland: 13 actieve ANBI's
+Hoogland,14,52.1872469,5.3762224,Hoogland: 14 actieve ANBI's
 Hooglanderveen,8,52.1876688,5.4323119,Hooglanderveen: 8 actieve ANBI's
 Hoogmade,2,52.1692267,4.5836828,Hoogmade: 2 actieve ANBI's
 Hoogvliet Rotterdam,24,51.8652855,4.3641111,Hoogvliet Rotterdam: 24 actieve ANBI's
 Hoogwoud,17,52.7163451,4.9318637,Hoogwoud: 17 actieve ANBI's
-Hoorn,133,52.653272,5.0735802,Hoorn: 133 actieve ANBI's
+Hoorn,132,52.653272,5.0735802,Hoorn: 132 actieve ANBI's
 Hoornaar,7,51.8803846,4.9463797,Hoornaar: 7 actieve ANBI's
 Hoornsterzwaag,3,52.9978563,6.1700503,Hoornsterzwaag: 3 actieve ANBI's
 Horn,9,52.653272,5.0735802,Horn: 9 actieve ANBI's
@@ -928,7 +927,7 @@ Kerk Avezaath,2,51.8964146,5.3834183,Kerk Avezaath: 2 actieve ANBI's
 Kerk-Avezaath,3,51.8964146,5.3834183,Kerk-Avezaath: 3 actieve ANBI's
 Kerkdriel,10,51.7712409,5.33749,Kerkdriel: 10 actieve ANBI's
 Kerkenveld,1,52.6685225,6.5008322,Kerkenveld: 1 actieve ANBI's
-Kerkrade,50,50.8654924,6.0632022,Kerkrade: 50 actieve ANBI's
+Kerkrade,49,50.8654924,6.0632022,Kerkrade: 49 actieve ANBI's
 Kerkwerve,5,51.6863988,3.8994996,Kerkwerve: 5 actieve ANBI's
 Kerkwijk,6,51.7745473,5.2187988,Kerkwijk: 6 actieve ANBI's
 Kessel,6,51.2912483,6.05734,Kessel: 6 actieve ANBI's
@@ -1024,7 +1023,7 @@ Leerbroek,6,51.9074743,5.0512151,Leerbroek: 6 actieve ANBI's
 Leerdam,53,51.8937356,5.0924352,Leerdam: 53 actieve ANBI's
 Leersum,39,52.0102642,5.4332757,Leersum: 39 actieve ANBI's
 Leeuwarden,305,53.2005936,5.7918548,Leeuwarden: 305 actieve ANBI's
-Leiden,447,52.1594747,4.4908843,Leiden: 447 actieve ANBI's
+Leiden,445,52.1594747,4.4908843,Leiden: 445 actieve ANBI's
 Leiderdorp,51,52.1617952,4.5340923,Leiderdorp: 51 actieve ANBI's
 Leidschendam,64,52.0861654,4.3946774,Leidschendam: 64 actieve ANBI's
 Leimuiden,12,52.2239922,4.6724358,Leimuiden: 12 actieve ANBI's
@@ -1111,7 +1110,7 @@ Maasdam,8,51.7900381,4.5591848,Maasdam: 8 actieve ANBI's
 Maasdijk,13,51.79202,4.4738675,Maasdijk: 13 actieve ANBI's
 Maashees,3,51.5707591,6.0348645,Maashees: 3 actieve ANBI's
 Maasland,19,51.9367248,4.2740314,Maasland: 19 actieve ANBI's
-Maassluis,83,51.9219917,4.2541194,Maassluis: 83 actieve ANBI's
+Maassluis,82,51.9219917,4.2541194,Maassluis: 82 actieve ANBI's
 Maastricht,339,50.8512438,5.6909768,Maastricht: 339 actieve ANBI's
 Maastricht-Airport,1,50.9211603,5.7848359,Maastricht-Airport: 1 actieve ANBI's
 Made,16,51.6773008,4.7931811,Made: 16 actieve ANBI's
@@ -1159,8 +1158,8 @@ Meteren,10,51.8637206,5.2834238,Meteren: 10 actieve ANBI's
 Meterik,4,51.4557618,6.0245901,Meterik: 4 actieve ANBI's
 Mheer,3,50.780682,5.7919568,Mheer: 3 actieve ANBI's
 Middelaar,1,51.7240439,5.9156266,Middelaar: 1 actieve ANBI's
-Middelburg,152,51.4996784,3.6137371,Middelburg: 152 actieve ANBI's
-Middelharnis,39,51.7576172,4.1656476,Middelharnis: 39 actieve ANBI's
+Middelburg,151,51.4996784,3.6137371,Middelburg: 151 actieve ANBI's
+Middelharnis,40,51.7576172,4.1656476,Middelharnis: 40 actieve ANBI's
 Middelie,5,52.538075,5.0142215,Middelie: 5 actieve ANBI's
 Middelstum,13,53.3482129,6.6439511,Middelstum: 13 actieve ANBI's
 Middenbeemster,13,52.5489163,4.9146226,Middenbeemster: 13 actieve ANBI's
@@ -1260,7 +1259,7 @@ Nieuwerkerk Ijssel,1,51.9591196,4.6210579,Nieuwerkerk Ijssel: 1 actieve ANBI's
 Nieuwerkerk aan den IJssel,47,51.9675284,4.6116776,Nieuwerkerk aan den IJssel: 47 actieve ANBI's
 Nieuweroord,1,52.7254455,6.5649064,Nieuweroord: 1 actieve ANBI's
 Nieuwersluis,4,52.196668,5.0077712,Nieuwersluis: 4 actieve ANBI's
-Nieuwkoop,28,52.1500947,4.7761706,Nieuwkoop: 28 actieve ANBI's
+Nieuwkoop,27,52.1500947,4.7761706,Nieuwkoop: 27 actieve ANBI's
 Nieuwkuijk,13,51.6913468,5.1805252,Nieuwkuijk: 13 actieve ANBI's
 Nieuwland,2,51.3411754,3.6409685,Nieuwland: 2 actieve ANBI's
 Nieuwlande,7,52.6957431,6.6110453,Nieuwlande: 7 actieve ANBI's
@@ -1289,7 +1288,7 @@ Nijkerk,122,52.2219471,5.4824871,Nijkerk: 122 actieve ANBI's
 Nijkerkerveen,12,52.195727,5.4673875,Nijkerkerveen: 12 actieve ANBI's
 Nijland,6,53.0510398,5.5758194,Nijland: 6 actieve ANBI's
 Nijlande,2,52.9709916,6.6242876,Nijlande: 2 actieve ANBI's
-Nijmegen,485,51.8474946,5.8637771,Nijmegen: 485 actieve ANBI's
+Nijmegen,481,51.8474946,5.8637771,Nijmegen: 481 actieve ANBI's
 Nijverdal,49,52.3592015,6.4654075,Nijverdal: 49 actieve ANBI's
 Nispen,5,51.4823484,4.4616139,Nispen: 5 actieve ANBI's
 Nisse,4,51.4572483,3.8537696,Nisse: 4 actieve ANBI's
@@ -1306,7 +1305,7 @@ Noorden,10,52.1662661,4.8270914,Noorden: 10 actieve ANBI's
 Noordgouwe,7,51.6936422,3.9386411,Noordgouwe: 7 actieve ANBI's
 Noordhoek,1,51.6426051,4.5334995,Noordhoek: 1 actieve ANBI's
 Noordhorn,9,53.2594179,6.3957891,Noordhorn: 9 actieve ANBI's
-Noordlaren,3,53.1208645,6.6667661,Noordlaren: 3 actieve ANBI's
+Noordlaren,2,53.1208645,6.6667661,Noordlaren: 2 actieve ANBI's
 Noordscheschut,9,52.7208497,6.5345138,Noordscheschut: 9 actieve ANBI's
 Noordwelle,1,51.7185957,3.792986,Noordwelle: 1 actieve ANBI's
 Noordwijk,81,52.2410856,4.4461969,Noordwijk: 81 actieve ANBI's
@@ -1530,7 +1529,7 @@ Rijnsaterwoude,5,52.1973079,4.6711374,Rijnsaterwoude: 5 actieve ANBI's
 Rijnsburg,35,52.1893268,4.438952,Rijnsburg: 35 actieve ANBI's
 Rijpwetering,2,52.1935379,4.5818375,Rijpwetering: 2 actieve ANBI's
 Rijs,2,52.8637503,5.4969911,Rijs: 2 actieve ANBI's
-Rijsbergen,7,51.5158877,4.7005455,Rijsbergen: 7 actieve ANBI's
+Rijsbergen,6,51.5158877,4.7005455,Rijsbergen: 6 actieve ANBI's
 Rijsenhout,9,52.2587713,4.7153681,Rijsenhout: 9 actieve ANBI's
 Rijssen,75,52.3080276,6.5213004,Rijssen: 75 actieve ANBI's
 Rijswijk,135,52.0446265,4.3188215,Rijswijk: 135 actieve ANBI's
@@ -1554,7 +1553,7 @@ Rosmalen,68,51.71866,5.3629244,Rosmalen: 68 actieve ANBI's
 Rossum,13,51.8019318,5.3320894,Rossum: 13 actieve ANBI's
 Roswinkel,1,52.8372932,7.0384353,Roswinkel: 1 actieve ANBI's
 Rotstergaast,2,52.9093692,5.9109516,Rotstergaast: 2 actieve ANBI's
-Rotterdam,1582,51.9244424,4.47775,Rotterdam: 1582 actieve ANBI's
+Rotterdam,1587,51.9244424,4.47775,Rotterdam: 1587 actieve ANBI's
 Rottevalle,9,53.1452083,6.1030877,Rottevalle: 9 actieve ANBI's
 Rottum,2,53.3821165,6.6207837,Rottum: 2 actieve ANBI's
 Rouveen,13,52.6156777,6.1860681,Rouveen: 13 actieve ANBI's
@@ -1689,7 +1688,7 @@ Spannum,4,53.1430187,5.6073618,Spannum: 4 actieve ANBI's
 Spaubeek,5,50.9383065,5.8404042,Spaubeek: 5 actieve ANBI's
 Spierdijk,3,52.6505022,4.9427206,Spierdijk: 3 actieve ANBI's
 Spijk,8,53.3889462,6.836352,Spijk: 8 actieve ANBI's
-Spijkenisse,63,51.8464881,4.3287681,Spijkenisse: 63 actieve ANBI's
+Spijkenisse,62,51.8464881,4.3287681,Spijkenisse: 62 actieve ANBI's
 Spijkerboor,2,53.076277,6.7649773,Spijkerboor: 2 actieve ANBI's
 Sprang-Capelle,22,51.6705258,5.0252983,Sprang-Capelle: 22 actieve ANBI's
 Sprang-capelle,1,51.6705258,5.0252983,Sprang-capelle: 1 actieve ANBI's
@@ -1779,7 +1778,7 @@ Tjerkwerd,3,53.0414583,5.5002915,Tjerkwerd: 3 actieve ANBI's
 Tjuchem,1,53.280316,6.8782112,Tjuchem: 1 actieve ANBI's
 Tolbert,11,53.1734473,6.3635404,Tolbert: 11 actieve ANBI's
 Toldijk,3,52.0545868,6.2223119,Toldijk: 3 actieve ANBI's
-Tolkamer,5,51.8531599,6.1026538,Tolkamer: 5 actieve ANBI's
+Tolkamer,4,51.8531599,6.1026538,Tolkamer: 4 actieve ANBI's
 Tollebeek,5,52.6777616,5.6755078,Tollebeek: 5 actieve ANBI's
 Tonden,2,52.1355808,6.1273961,Tonden: 2 actieve ANBI's
 Toornwerd,1,53.3551557,6.6373408,Toornwerd: 1 actieve ANBI's
@@ -1793,7 +1792,7 @@ Twello,28,52.2356369,6.1042772,Twello: 28 actieve ANBI's
 Twijzel,4,53.2320384,6.0881075,Twijzel: 4 actieve ANBI's
 Twijzelerheide,9,53.242037,6.046059,Twijzelerheide: 9 actieve ANBI's
 Twisk,6,52.7387032,5.0519467,Twisk: 6 actieve ANBI's
-Tynaarlo,6,53.0770194,6.6175495,Tynaarlo: 6 actieve ANBI's
+Tynaarlo,5,53.0770194,6.6175495,Tynaarlo: 5 actieve ANBI's
 Tytsjerk,5,53.2090671,5.9153733,Tytsjerk: 5 actieve ANBI's
 Tzum,3,53.1586562,5.5634514,Tzum: 3 actieve ANBI's
 Tzummarum,4,53.2371003,5.5465025,Tzummarum: 4 actieve ANBI's
@@ -1820,7 +1819,7 @@ Urk,72,52.6654515,5.5987894,Urk: 72 actieve ANBI's
 Urmond,8,50.9911568,5.7717119,Urmond: 8 actieve ANBI's
 Ursem,8,52.6276935,4.8909738,Ursem: 8 actieve ANBI's
 Usquert,11,53.4024685,6.6117672,Usquert: 11 actieve ANBI's
-Utrecht,1203,52.0907006,5.1215634,Utrecht: 1203 actieve ANBI's
+Utrecht,1201,52.0907006,5.1215634,Utrecht: 1201 actieve ANBI's
 VARIK,1,51.823471,5.3679909,VARIK: 1 actieve ANBI's
 Vaals,8,50.7710157,6.019049,Vaals: 8 actieve ANBI's
 Vaassen,26,52.2901716,5.9686728,Vaassen: 26 actieve ANBI's
@@ -1844,7 +1843,7 @@ Vegelinsoord,1,52.9990282,5.8635115,Vegelinsoord: 1 actieve ANBI's
 Veghel,63,51.6134544,5.5446938,Veghel: 63 actieve ANBI's
 Velddriel,1,51.770235,5.3047013,Velddriel: 1 actieve ANBI's
 Velden,9,51.4155926,6.1633231,Velden: 9 actieve ANBI's
-Veldhoven,68,51.4190691,5.4045572,Veldhoven: 68 actieve ANBI's
+Veldhoven,67,51.4190691,5.4045572,Veldhoven: 67 actieve ANBI's
 Velp,60,51.9958671,5.9751252,Velp: 60 actieve ANBI's
 Velsen-Noord,9,52.4738528,4.6379311,Velsen-Noord: 9 actieve ANBI's
 Velsen-Zuid,9,52.4600386,4.6514217,Velsen-Zuid: 9 actieve ANBI's
@@ -1890,7 +1889,7 @@ Voorburg,107,52.0703201,4.3558561,Voorburg: 107 actieve ANBI's
 Voorhout,40,52.2244226,4.4886562,Voorhout: 40 actieve ANBI's
 Voorschoten,71,52.1275236,4.4465727,Voorschoten: 71 actieve ANBI's
 Voorst,12,51.8739876,6.4196887,Voorst: 12 actieve ANBI's
-Voorthuizen,44,52.1871648,5.6071994,Voorthuizen: 44 actieve ANBI's
+Voorthuizen,45,52.1871648,5.6071994,Voorthuizen: 45 actieve ANBI's
 Vorchten,3,52.398483,6.106708,Vorchten: 3 actieve ANBI's
 Vorden,31,52.1040836,6.3126253,Vorden: 31 actieve ANBI's
 Vorstenbosch,3,51.653954,5.5523875,Vorstenbosch: 3 actieve ANBI's
@@ -1998,7 +1997,7 @@ Wierden,32,52.3579925,6.5921844,Wierden: 32 actieve ANBI's
 Wieringerwaard,4,52.8389768,4.8623809,Wieringerwaard: 4 actieve ANBI's
 Wieringerwerf,15,52.8515867,5.0228696,Wieringerwerf: 15 actieve ANBI's
 Wierum,3,53.4013438,6.015071,Wierum: 3 actieve ANBI's
-Wijchen,53,51.8071658,5.7261657,Wijchen: 53 actieve ANBI's
+Wijchen,54,51.8071658,5.7261657,Wijchen: 54 actieve ANBI's
 Wijckel,3,52.8890055,5.6231667,Wijckel: 3 actieve ANBI's
 Wijdenes,2,52.6346484,5.1574561,Wijdenes: 2 actieve ANBI's
 Wijdewormer,4,52.5002304,4.8922785,Wijdewormer: 4 actieve ANBI's
@@ -2043,14 +2042,14 @@ Wittem,11,50.8131031,5.9131789,Wittem: 11 actieve ANBI's
 Wiuwert,1,53.1095953,5.6901356,Wiuwert: 1 actieve ANBI's
 Wjelsryp,2,53.1666428,5.606938,Wjelsryp: 2 actieve ANBI's
 Woensdrecht,2,51.4293059,4.304716,Woensdrecht: 2 actieve ANBI's
-Woerden,167,52.0859261,4.8832939,Woerden: 167 actieve ANBI's
+Woerden,168,52.0859261,4.8832939,Woerden: 168 actieve ANBI's
 Woerdense Verlaat,4,52.1547365,4.8638607,Woerdense Verlaat: 4 actieve ANBI's
 Wognum,16,52.6810981,5.0247378,Wognum: 16 actieve ANBI's
 Woldendorp,1,53.2735639,7.0297936,Woldendorp: 1 actieve ANBI's
 Wolfheze,9,52.0050085,5.7925941,Wolfheze: 9 actieve ANBI's
 Wolphaartsdijk,6,51.5310535,3.8217163,Wolphaartsdijk: 6 actieve ANBI's
 Wolsum,1,53.0365695,5.5448865,Wolsum: 1 actieve ANBI's
-Wolvega,26,52.8762872,6.001764,Wolvega: 26 actieve ANBI's
+Wolvega,27,52.8762872,6.001764,Wolvega: 27 actieve ANBI's
 Wommels,9,53.1090078,5.5881055,Wommels: 9 actieve ANBI's
 Wons,2,53.0844283,5.423996,Wons: 2 actieve ANBI's
 Workum,15,52.9778491,5.4464091,Workum: 15 actieve ANBI's
@@ -2087,7 +2086,7 @@ Zegge,1,51.5558698,4.5167245,Zegge: 1 actieve ANBI's
 Zegveld,4,52.1164586,4.8359618,Zegveld: 4 actieve ANBI's
 Zeijen,1,53.0495004,6.5459547,Zeijen: 1 actieve ANBI's
 Zeijerveld,1,53.0362039,6.5228963,Zeijerveld: 1 actieve ANBI's
-Zeist,214,52.0892832,5.2276307,Zeist: 214 actieve ANBI's
+Zeist,213,52.0892832,5.2276307,Zeist: 213 actieve ANBI's
 Zelhem,18,52.0068482,6.3500598,Zelhem: 18 actieve ANBI's
 Zenderen,3,52.3237521,6.7241713,Zenderen: 3 actieve ANBI's
 Zetten,19,51.9283579,5.7134529,Zetten: 19 actieve ANBI's
@@ -2116,7 +2115,7 @@ Zuiddorpe,1,51.2351819,3.9043023,Zuiddorpe: 1 actieve ANBI's
 Zuidermeer,2,52.663998,4.976139,Zuidermeer: 2 actieve ANBI's
 Zuiderwoude,3,52.4314816,5.035318,Zuiderwoude: 3 actieve ANBI's
 Zuidhorn,22,53.2480736,6.4049853,Zuidhorn: 22 actieve ANBI's
-Zuidland,15,51.8220839,4.2577294,Zuidland: 15 actieve ANBI's
+Zuidland,14,51.8220839,4.2577294,Zuidland: 14 actieve ANBI's
 Zuidlaren,25,53.0940913,6.687165,Zuidlaren: 25 actieve ANBI's
 Zuidoostbeemster,8,52.5153527,4.9428991,Zuidoostbeemster: 8 actieve ANBI's
 Zuidschermer,5,52.5841732,4.779619,Zuidschermer: 5 actieve ANBI's
@@ -2141,7 +2140,7 @@ Zweeloo,4,52.7943068,6.7306013,Zweeloo: 4 actieve ANBI's
 Zwiggelte,1,52.8739276,6.5865947,Zwiggelte: 1 actieve ANBI's
 Zwijndrecht,75,51.8162227,4.6405166,Zwijndrecht: 75 actieve ANBI's
 Zwinderen,2,52.7274317,6.6768343,Zwinderen: 2 actieve ANBI's
-Zwolle,376,52.5089759,6.0943765,Zwolle: 376 actieve ANBI's
+Zwolle,375,52.5089759,6.0943765,Zwolle: 375 actieve ANBI's
 de Hoef,1,51.66632,5.80788,de Hoef: 1 actieve ANBI's
 de Lutte,6,52.3143672,6.9905783,de Lutte: 6 actieve ANBI's
 de Wijk,8,52.6721062,6.2886884,de Wijk: 8 actieve ANBI's
